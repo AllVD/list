@@ -45,6 +45,8 @@ public class ConjuntoConvidados {
     conjuntoConvidados.adicionarConvidado("Convidado 2 ", 1235);
     conjuntoConvidados.adicionarConvidado("Convidado 3 ", 1235);
     conjuntoConvidados.adicionarConvidado("Convidado 4 ", 1236);
+
+    conjuntoConvidados.exibirConvidados();
     
     System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " Dentro do Set de Convidados");
 
