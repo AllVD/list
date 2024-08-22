@@ -1,5 +1,4 @@
-package main.java.set.Pesquisa;
-
+package set.Pesquisa;
 public class Tarefa {
   //atributos
   private String descricao;
